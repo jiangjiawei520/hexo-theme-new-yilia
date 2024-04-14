@@ -1,0 +1,14 @@
+.DS_Store
+.git
+Thumbs.db
+node_modules/
+db.json
+*.log
+public/
+.deploy*/
+_multiconfig.yml
+.vscode
+.vs
+*.code-workspace
+.history
+.vscode
